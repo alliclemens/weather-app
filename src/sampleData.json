@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -87.91,
+        "lat": 43.04
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 47.52,
+        "pressure": 1020,
+        "humidity": 52,
+        "temp_min": 280.15,
+        "temp_max": 281.15
+    },
+    "visibility": 16093,
+    "wind": {
+        "speed": 8.7,
+        "deg": 20,
+        "gust": 12.3
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1524664500,
+    "sys": {
+        "type": 1,
+        "id": 3004,
+        "message": 0.0072,
+        "country": "US",
+        "sunrise": 1524653586,
+        "sunset": 1524703596
+    },
+    "id": 5263045,
+    "name": "Milwaukee",
+    "cod": 200
+}

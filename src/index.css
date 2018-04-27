@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: grey;
+}
+
+h2.section-header {
+  font-size: 2.5em;
+  padding: 10px 0;
+  text-align: left;
+}
+
+.section {
+  margin-top: 20px;
+}
+
+button.city-button {
+  width: 100%;
+  height: 80px;
+  font-size: 1.6em;
+  color: #3a445c;
+  background-color: #f1f1f1;
+}
+
+@media only screen and (max-width: 768px) {
+  button.city-button {
+    width: 100%;
+    height: 50px;
+    font-size: 1.2em;
+    color: #3a445c;
+    background-color: #f1f1f1;
+  }
+}
+
+#current-weather-icon {
+  color: #3a445c;
+  font-size: 12em;
+  margin: 15px 0;
+}
+
+#current-conditions, #current-city {
+  margin-top: 15px;
+  font-size: 2em;
+}
+
+#current-temp {
+  font-size: 5em;
+}
+
+.current-weather-details {
+  font-size: 1.8em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.forecast-box {
+  background-color: #f1f1f1;
+  margin-bottom: 50px;
+}
+
+.HourTile {
+  background-color: white;
+}
+
+.hourly-icon {
+  font-size: 4em;
+}
+
+.time, .temp, .conditions {
+  font-size: 1.5em;
+}
+

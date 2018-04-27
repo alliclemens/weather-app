@@ -1,0 +1,51 @@
+{
+  "MKE":
+  {
+    "id": 5263045,
+    "name": "Milwaukee",
+    "country": "US",
+    "coord": {
+      "lon": -87.906471,
+      "lat": 43.038898
+    }
+  },
+  "CHI":
+  {
+    "id": 4887398,
+    "name": "Chicago",
+    "country": "US",
+    "coord": {
+      "lon": -87.650047,
+      "lat": 41.850029
+    }
+  },
+  "MIN":
+  {
+    "id": 5037649,
+    "name": "Minneapolis",
+    "country": "US",
+    "coord": {
+      "lon": -93.26384,
+      "lat": 44.979969
+    }
+  },
+  "DAL":
+  {
+    "id": 4684888,
+    "name": "Dallas",
+    "country": "US",
+    "coord": {
+      "lon": -96.806671,
+      "lat": 32.783058
+    }
+  }
+}
+
+
+
+
+
+
+    
+    
+   

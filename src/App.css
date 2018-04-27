@@ -1,0 +1,41 @@
+.App {
+  background: #ffffff url("bg.png") no-repeat top;
+  text-align: center;
+  background-size: cover;
+}
+
+.App-logo {
+  height: 60px;
+  color: #3a445c;
+  float: left;
+  margin-right: 20px;
+}
+
+.App-header {
+  text-align: left;
+  vertical-align: middle;
+  background-color: #f1f1f1;
+  height: 80px;
+  padding: 20px;
+  color: #3a445c;
+}
+
+h1.page-header {
+  font-size: 3em;
+  text-align: left;
+  margin-left: 20px;
+}
+
+@media only screen and (max-width: 799px) {
+  #App-title {
+      font-size: 0.7em;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  #App-title {
+      display: none;
+  }
+}
+
+
